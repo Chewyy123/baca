@@ -1,0 +1,52 @@
+
+
+
+.topLeftBorder {
+    background-color: #c89290;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    color: white;
+    text-align: center;
+}
+
+.topRightBorder {
+    background-color: #50404d;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    color: white;
+    text-align: center;
+}
+
+.nav-link {
+    color: black;
+    font-size: 1.25em;
+}
+
+.Saralina {
+    font-family: 'Rouge Script', cursive;
+    font-size: 70px;
+    background-color: #b76e79;
+    padding: 25px;
+    color: white;
+}
+
+.Demoshorts {
+    height: 480px;
+    padding-right: 75px;
+}
+
+.DemoShirt {
+    height: 480px;
+    padding-right: 50px;
+}
+
+.Demoshoes {
+    height: 480px;
+}
+
+.getconnected {
+    text-align: center;
+}
+
+
+
